@@ -35,7 +35,7 @@ ggplot(Californiamap)+
 choose.files()
 #chooooose your files
 
-crimecali <- read.csv("C:\\Users\\Ricardo\\Desktop\\MSc Smart Cities and Urban Analytics\\Lectures\\R\\RICHARDSMAP\\DCMap\\crime rate california 2006-2010.csv")
+crimecali <- read.csv()
 crimecali <- crimecali %>%  
   mutate(subregion = as.factor(subregion), numerator = as.factor(numerator))
 
