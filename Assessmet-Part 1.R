@@ -70,8 +70,7 @@ C <- ggplot(mapdatacali)+
 north2(C, x = .20, y = .25, scale = .1, symbol = 9) 
 
 
-#########
-########
+
 
 
 
