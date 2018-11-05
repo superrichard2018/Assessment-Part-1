@@ -68,5 +68,5 @@ C <- ggplot(mapdatacali)+
            x.min=-111.865, x.max=-110.869, dist=200, st.size = 2.5, dd2km= TRUE, model='WGS84',
            st.dist=.02)
 north2(C, x = .20, y = .25, scale = .1, symbol = 9) 
-##
+###
 
